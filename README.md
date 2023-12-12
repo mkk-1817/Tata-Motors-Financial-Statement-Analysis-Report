@@ -2,7 +2,7 @@
 
 
 ## Overview
-This repository presents a detailed financial statement analysis of Tata Motors. The analysis covers a span of six years, encompassing balance sheets, profit and loss statements, and cash flow statements. The key findings and insights are documented in an analysis report, and financial ratios are calculated and available in an Excel file for further examination.
+This repository presents a detailed financial statement analysis of Tata Motors. The analysis covers six years, encompassing balance sheets, profit and loss statements, and cash flow statements. The key findings and insights are documented in an analysis report, and financial ratios are calculated and available in an Excel file for further examination.
 
 ## Project Structure
 - `Financial_Statements.xlsx`: Excel file containing financial ratios and detailed financial statements for the years [enter years].
